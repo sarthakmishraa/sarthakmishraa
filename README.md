@@ -1,6 +1,4 @@
-<div style="text-align: center;"> 
-  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=35&duration=3000&color=00e30f&width=535&lines=Hi👋%2C+I'm Sarthak Mishra%F0%9F%91%8B;I'm+always+learning"/>
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=100&random=false&width=435&duration=3000&color=00e30f&lines=Hi I'm 👋 Sarthak Mishra;I'm+always+learning" alt="Typing SVG" /></a>
 
 <h3 align="left">Connect with me:</h3>
 
