@@ -1,5 +1,3 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=100&random=false&width=435&duration=3000&color=00e30f&lines=Hi I'm 👋 Sarthak Mishra;I'm+always+learning" alt="Typing SVG" /></a>
-
 <h3 align="left">Connect with me:</h3>
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sarthakmishraa/)
