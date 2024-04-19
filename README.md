@@ -15,6 +15,8 @@
 
 - Career Crafter/ATS Matcher [https://atsmatch.streamlit.app/](https://atsmatch.streamlit.app/)
 
+- Social Media App [https://sm-socialmedia.netlify.app/](https://sm-socialmedia.netlify.app/)
+
 - Tick It Todo App [https://tick-it.netlify.app/](https://tick-it.netlify.app/)
 
 - City Weather [https://current-city-weather.netlify.app/](https://current-city-weather.netlify.app/)
