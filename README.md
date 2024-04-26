@@ -49,8 +49,10 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthakmishraa&show_icons=true&locale=en&layout=compact" alt="sarthakmishraa" /></p>
 
+<!--
 <p align="center" style="display:flex; align=center; justify-content:center; ">
 <img src="https://streak-stats.demolab.com/?user=sarthakmishraa&theme=holi-theme">
 </p>
+-->
 
 <hr />
