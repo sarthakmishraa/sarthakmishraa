@@ -32,8 +32,8 @@
 	<td><strong>Languages</strong></td>
 </tr>
 <tr>
-		<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,typescript,vue,tailwind,nodejs,bootstrap,flask,express,firebase,mongodb" ></td>
-		<td><img src = "https://skillicons.dev/icons?i=javascript,python,c,cpp,java&theme=dark"></td>
+		<td><img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,vue,tailwind,nodejs,bootstrap,flask,express,firebase,mongodb" ></td>
+		<td><img src="https://skillicons.dev/icons?i=javascript,python,c,cpp,java&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Data Science</strong></td>
