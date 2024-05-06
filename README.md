@@ -13,6 +13,8 @@
 
 - SMSec [https://smsec.netlify.app/](https://smsec.netlify.app/)
 
+- Trip Script [https://tripscript.netlify.app/](https://tripscript.netlify.app/)
+
 - Career Crafter/ATS Matcher [https://atsmatch.streamlit.app/](https://atsmatch.streamlit.app/)
 
 - Social Media App [https://sm-socialmedia.netlify.app/](https://sm-socialmedia.netlify.app/)
