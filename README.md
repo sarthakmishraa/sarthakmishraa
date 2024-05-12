@@ -19,6 +19,8 @@
 
 - Social Media App [https://sm-socialmedia.netlify.app/](https://sm-socialmedia.netlify.app/)
 
+- Flip & Find [https://flipnfind.netlify.app/](https://flipnfind.netlify.app/)
+
 - Tick It Todo App [https://tick-it.netlify.app/](https://tick-it.netlify.app/)
 
 - City Weather [https://current-city-weather.netlify.app/](https://current-city-weather.netlify.app/)
