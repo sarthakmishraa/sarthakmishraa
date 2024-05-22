@@ -17,6 +17,8 @@
 
 - Career Crafter/ATS Matcher [https://atsmatch.streamlit.app/](https://atsmatch.streamlit.app/)
 
+- SM Chat App [https://sm-chatapp.netlify.app/](https://sm-chatapp.netlify.app/)
+
 - Social Media App [https://sm-socialmedia.netlify.app/](https://sm-socialmedia.netlify.app/)
 
 - Flip & Find [https://flipnfind.netlify.app/](https://flipnfind.netlify.app/)
