@@ -11,15 +11,23 @@
 
 <h3 align="left">My live projects</h3>
 
-- VidChatter [https://vidchatter.netlify.app/](https://vidchatter.netlify.app/)
+- Noodle Docs [https://noodledocs.vercel.app/](https://noodledocs.vercel.app/) Google Docs Clone [real time collaboration] (ReactJS, TS, Web Socket, Express)
+
+- VidChatter [https://vidchatter.netlify.app/](https://vidchatter.netlify.app/) Chat, Post with anyone [Social media app] (Web Socket, Express, Firebase ReactJS, TS)
+
+- Lucky Digger [https://luckydigger.vercel.app/](https://luckydigger.vercel.app/) Online gambling [Stake's Dice and Mines] (ReactJS, TS)
+
+- Noodle Pad [https://noodlepad.vercel.app/](https://noodlepad.vercel.app/) Text Editor [keeps data saved even after closing tab] (NextJS, TipTap, localStorage)
+
+- LimitPay [https://limitpay-expense-tracker.vercel.app/](https://limitpay-expense-tracker.vercel.app/) Expense Tracker (NextJS, Clerk, NeonDB)
 
 - SM Chat App [https://sm-chatapp.netlify.app/](https://sm-chatapp.netlify.app/)
 
-- SMSec [https://smsec.netlify.app/](https://smsec.netlify.app/)
+- SMSec [https://smsec.netlify.app/](https://smsec.netlify.app/) Real time object detection app (ReactJS, yolo, tensorflowjs)
 
-- Trip Script [https://tripscript.netlify.app/](https://tripscript.netlify.app/)
+- Trip Script [https://tripscript.netlify.app/](https://tripscript.netlify.app/) Plan your trip (Google Gemini API, ReactJS, TS)
 
-- Career Crafter/ATS Matcher [https://atsmatch.streamlit.app/](https://atsmatch.streamlit.app/)
+- Career Crafter/ATS Matcher [https://atsmatch.streamlit.app/](https://atsmatch.streamlit.app/) Job Search Helper (Python, Streamlit, Google Gemini API)
 
 - Social Media App [https://sm-socialmedia.netlify.app/](https://sm-socialmedia.netlify.app/)
 
