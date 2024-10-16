@@ -11,6 +11,10 @@
 
 <h3 align="left">My live projects</h3>
 
+- **Eth Stream** [https://eth-stream.vercel.app/](https://eth-stream.vercel.app/) 
+	- Get current value and price graphs of top crypto currencies
+	- Tech Stack: NextJS, TS, ChartJS, Coincap API
+
 - **Noodle Docs** [https://noodledocs.vercel.app/](https://noodledocs.vercel.app/) 
 	- Google Docs Clone [real time collaboration] 
 	- Tech Stack: ReactJS, TS, Web Socket, Express
@@ -31,8 +35,6 @@
 	- Expense Tracker
 	- Tech Stack: NextJS, Clerk, NeonDB
 
-- **SM Chat App** [https://sm-chatapp.netlify.app/](https://sm-chatapp.netlify.app/)
-
 - **SMSec** [https://smsec.netlify.app/](https://smsec.netlify.app/)
 	- Real time object detection app
 	- Tech Stack: ReactJS, yolo, tensorflowjs
@@ -44,8 +46,6 @@
 - **Career Crafter/ATS Matcher** [https://atsmatch.streamlit.app/](https://atsmatch.streamlit.app/)
 	- Job Search Helper
 	- Tech Stack: Python, Streamlit, Google Gemini API
-
-- **Social Media App** [https://sm-socialmedia.netlify.app/](https://sm-socialmedia.netlify.app/)
 
 - **Flip & Find** [https://flipnfind.netlify.app/](https://flipnfind.netlify.app/)
 
