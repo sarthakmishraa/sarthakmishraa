@@ -57,26 +57,6 @@
 
 <hr />
 
-## Technologies
-<table>
-<tr>
-	<td><strong>Web Development</strong></td>
-	<td><strong>Languages</strong></td>
-</tr>
-<tr>
-		<td><img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,vue,tailwind,nodejs,bootstrap,flask,express,firebase,mongodb" ></td>
-		<td><img src="https://skillicons.dev/icons?i=javascript,python,c,cpp,java&theme=dark"></td>
-</tr>
-<tr>
-	<td><strong>Data Science</strong></td>
-	<td><strong>Tools</strong></td>
-</tr>
-<tr>
-	<td><img src = "https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,sklearn,selenium&theme=dark"></td>
-	<td><img src = "https://skillicons.dev/icons?i=git,vscode,github,githubactions,netlify,figma,postgres&theme=dark"></td>
-</tr>
-</table>
-
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthakmishraa&show_icons=true&locale=en&layout=compact" alt="sarthakmishraa" /></p>
