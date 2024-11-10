@@ -55,8 +55,6 @@
 
 - **Fluence** [https://flu-ence.netlify.app/](https://flu-ence.netlify.app/)
 
-<hr />
-
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthakmishraa&show_icons=true&locale=en&layout=compact" alt="sarthakmishraa" /></p>
