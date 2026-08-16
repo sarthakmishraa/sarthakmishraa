@@ -16,7 +16,7 @@ export const HeroContent = () => {
   return (
     <>
       <div className="flex justify-between items-center">
-        <div className="text-2xl font-medium">
+        <div className="text-2xl font-medium line-clamp-1">
           Hi, I am Sarthak Mishra
         </div>
         <Button
@@ -25,6 +25,7 @@ export const HeroContent = () => {
             redirectToURL(RESUME_URL);
           }}
           icon={<FaGoogleDrive size={20} />}
+          buttonLabelClassNames="line-clamp-1"
         />
       </div>
       {/* <div className="flex flex-col space-y-6 text-gray-400">
